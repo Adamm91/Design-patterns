@@ -10,4 +10,7 @@ public class Shop {
         }
         return instance;
     }
+
+    private Shop() {
+    }
 }
